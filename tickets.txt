@@ -1,0 +1,12 @@
+ Con este ticket Puedes ir a recoger tu 
+platillo en la cafeteria que solicitaste
+         Datos de su pedido 
+---------------------------------------
+Facultad: Facultad de Filosofia y letra
+	Cafeteria: El chairo
+		Nombre del platillo: Ensalada vegana
+		ID del platillo: 15811
+		Precio: $75.00
+---------------------------------------
+Recoga su pedido dentro de 10 minutos.
+Que tenga un excelente día.
